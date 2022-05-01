@@ -7,7 +7,11 @@ Full Stack Web Developer
 Autonomous and enthusiastic, my first experiences allowed me to reinforce my achievements and to understand the different programming tools and techniques. In search of new challenges, I would like to join an organization to which I could bring my dynamism and my taste for challenge.
 
 *   🌍  I'm based in Demnate, Morocco
-*   ✉️  You can contact me at [brahimsadik98@gmail.com](mailto:brahimsadik98@gmail.com)### Skills<p align="left">
+*   ✉️  You can contact me at [brahimsadik98@gmail.com](mailto:brahimsadik98@gmail.com)
+
+### Skills
+
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
