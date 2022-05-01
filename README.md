@@ -1,7 +1,7 @@
 Hi 👋 My name is SADIK Brahim
 =============================
 
-Full Stack Web Developer
+Full-Stack Web Developer
 ------------------------
 
 Autonomous and enthusiastic, my first experiences allowed me to reinforce my achievements and to understand the different programming tools and techniques. In search of new challenges, I would like to join an organization to which I could bring my dynamism and my taste for challenge.
